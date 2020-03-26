@@ -22,6 +22,9 @@ ANSIBLE_METADATA = {
     "supported_by": "network",
 }
 
+# Fix applied
+# Addressing review comments
+
 DOCUMENTATION = """module: nxos_file_copy
 extends_documentation_fragment:
 - cisco.nxos.nxos
